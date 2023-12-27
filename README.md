@@ -6,6 +6,6 @@
 
 
 ## Introduction
-This repository contains the CEH Toolkit. It is a collection of tools and scripts that are useful for the CEH practical exam. 
+This repository contains the CEH Toolkit. It is a collection of tools, commands, and scripts that are useful for the CEH practical exam. 
 
-The tools are organized in modules, which are based on the official CEHv12 curriculum.
+The items are organized in modules, which are based on the official CEHv12 curriculum.
