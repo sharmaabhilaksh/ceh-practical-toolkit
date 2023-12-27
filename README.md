@@ -3,6 +3,7 @@
 ## Content
 1. [Introduction](#introduction)
 2. [Footprinting and Reconnaissance](./modules/02-footprinting-and-reconnaissance/02-overview.md)
+3. [Scanning Networks](./modules/03-scanning-networks/03-overview.md)
 
 
 ## Introduction
