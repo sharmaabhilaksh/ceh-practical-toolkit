@@ -5,6 +5,7 @@
 2. [Footprinting and Reconnaissance](./modules/02-footprinting-and-reconnaissance/02-overview.md)
 3. [Scanning Networks](./modules/03-scanning-networks/03-overview.md)
 4. [Enumeration](./modules/04-enumeration/04-overview.md)
+5. [Vulnerability Analysis](./modules/05-vulnerability-analysis/05-overview.md)
 
 ### Cheat Sheets
 1. [nmap PDF](./cheat-sheets/nmap_cheet_sheet_v7.pdf)
