@@ -27,7 +27,7 @@ TCP/389 and TCP/636 (LDAPS)
 1. Active Directory Explorer (windows app)
 2. ldapsearch
    - `ldapsearch -h <ip> -p <port> -x -s base namingcontexts`
-   -  `ldapsearch -h [Target IP Address] -x -b “DC=CEH,DC=com”`
+   - `ldapsearch -h [Target IP Address] -x -b “DC=CEH,DC=com”`
    - `ldapsearch -x -h [Target IP Address] -b "DC=CEH,DC=com" "objectclass=*"`
 3. nmap scripts
 
@@ -64,7 +64,7 @@ TCP/25
 
 ### SMB Enumeration
 TCP/139,445
-1. `nmap -p 25 --script=smb-**** <target ip>`
+1. `nmap -p 445 --script=smb-**** <target ip>`
 
 ### Tools
 1. SuperEnum (parrot os) enumerate all ports
