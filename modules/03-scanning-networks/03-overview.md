@@ -1,5 +1,7 @@
 ## Scanning Networks
 
+`namp -sC -sV -p- -T4 <target>`
+
 ### Host Discovery
 1. nmap / zenmap
    - `nmap -sn -P<type> <ip range>`

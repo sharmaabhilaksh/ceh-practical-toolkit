@@ -16,7 +16,8 @@
    7. DNS Records (https://network-tools.com)
    8. Reverse DNS lookup https://www.yougetsignal.com/tools/web-sites-on-web-server/
    9. DNS Enumeration https://securitytrails.com/
-6. people search: 
+   10. Location: `https://tools.keycdn.com/geo?host=<target IP>`
+./6. people search: dnsrecon.py
    1. peekyou.com
    2. spokeo.com
    3. pipl.com
@@ -61,6 +62,7 @@
         - Trust only the authoritative name servers
     6. dnsrecon
         - `./dnsrecon.py -r <ip from>-<ip to>`
+        - `./dnsrecon.py -d <domain>`
     7. recon-ng
         - `recon-ng`
           - `modules install all` `modules search`
