@@ -17,7 +17,7 @@
    8. Reverse DNS lookup https://www.yougetsignal.com/tools/web-sites-on-web-server/
    9. DNS Enumeration https://securitytrails.com/
    10. Location: `https://tools.keycdn.com/geo?host=<target IP>`
-./6. people search: dnsrecon.py
+6. people search: dnsrecon.py
    1. peekyou.com
    2. spokeo.com
    3. pipl.com
