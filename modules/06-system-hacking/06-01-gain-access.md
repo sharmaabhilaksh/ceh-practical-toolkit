@@ -17,6 +17,7 @@
    1. John the ripper
       - `sudo john <hash file>`
       - `sudo john --wordlist=<wordlist path> <hash file>`
+      - NTLM passwords need `--format=NT --show`
       - Hash formats: https://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats
       - `--rules` for setting password rules (min/max length, lowercase, uppercase, digits, etc.)
 3. Password Brute Force
