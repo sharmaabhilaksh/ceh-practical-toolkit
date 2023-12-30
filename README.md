@@ -12,6 +12,7 @@
    3. [Maintain Access and Clear Logs](./modules/06-system-hacking/06-03-maintain-access-and-cover-tracks.md)
    4. [Steganography](./modules/06-system-hacking/06-04-steganography.md)
 7. [Malware Threats](./modules/07-malware-threats/07-overview.md)
+8. [Sniffing](./modules/08-sniffing/08-overview.md)
 
 ### Cheat Sheets
 1. [nmap PDF](./cheat-sheets/nmap_cheet_sheet_v7.pdf)
