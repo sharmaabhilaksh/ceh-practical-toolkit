@@ -28,6 +28,7 @@ Detect sniffer using nmap: `nmap -script=sniffer-detect <ip address range>`
 #### Detect DoS / DDoS
 - Same destination IP address with same packet type (SYN, ACK, etc.)
 - Statistics > Conversations > IPv4/6 > Sort by packets/bytes
+- Statistics > I/O Graph : to see when the attack started and ended
 
 #### Detect DHCP starvation
 - Huge number of DHCP discover requests
