@@ -17,7 +17,7 @@
 10. [Denial-of-Service](./modules/10-denial-of-service/10-overview.md)
 11. [Session Hijacking](./modules/11-session-hijacking/11-overview.md)
 12. [Evading IDS, Firewalls, and Honeypots](./modules/12-evading-ids-firewalls-honeypots/12-overview.md)
-
+13. [Hacking Web Servers](./modules/13-hacking-web-servers/13-overview.md)
 ### Cheat Sheets
 1. [nmap PDF](./cheat-sheets/nmap_cheet_sheet_v7.pdf)
 
