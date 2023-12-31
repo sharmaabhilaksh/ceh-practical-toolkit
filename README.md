@@ -15,6 +15,7 @@
 8. [Sniffing](./modules/08-sniffing/08-overview.md)
 9. [Social Engineering](./modules/09-social-engineering/09-overview.md)
 10. [Denial-of-Service](./modules/10-denial-of-service/10-overview.md)
+11. [Session Hijacking](./modules/11-session-hijacking/11-overview.md)
 
 ### Cheat Sheets
 1. [nmap PDF](./cheat-sheets/nmap_cheet_sheet_v7.pdf)

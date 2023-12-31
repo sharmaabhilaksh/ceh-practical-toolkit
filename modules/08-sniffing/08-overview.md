@@ -45,6 +45,10 @@ Detect sniffer using nmap: `nmap -script=sniffer-detect <ip address range>`
 - Go over the details of the packet
 - IP1 asking who has IP2 and IP3 and then saying IP2 is at MAC1 and IP3 is at MAC1
 
+#### Detect MitM Session Hijacking
+- Multiple ARP broadcast packets with same source IP address
+- Example: Who has IP-XXX, tell IP1. IP1 is attacker's IP address.
+
 #### Password sniffing
 - Filter for HTTP POST requests
 - Find packet with settings: `packet details :: Narrow (UTF-8 / ASCII) :: String :: <password fild name>`
