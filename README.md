@@ -20,6 +20,7 @@
 13. [Hacking Web Servers](./modules/13-hacking-web-servers/13-overview.md)
 14. [Hacking Web Applications](./modules/14-hacking-web-applications/14-overview.md)
 15. [SQL Injection](./modules/15-sql-injection/15-overview.md)
+16. [Hacking Wireless Networks](./modules/16-hacking-wireless-networks/16-overview.md)
 
 
 ### Cheat Sheets
