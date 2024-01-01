@@ -3,6 +3,7 @@
 1. Advanced google search operators
    - `site:` `filetype:` `intitle:` `inurl:` `intext:` `cache:` `link:`
    - `related:` `info:` `allintitle:` `allinurl:` `allintext:` `inanchor:`
+   - Google Hacking DB: https://www.exploit-db.com/google-hacking-database
 2. Reverse image search
 3. FTP: searchftps.net
 4. IoT: shodan.io
