@@ -24,6 +24,7 @@
 17. [Hacking Mobile Platforms](./modules/17-hacking-mobile-platforms/17-overview.md)
 18. [IoT and OT Hacking](./modules/18-iot-and-ot-hacking/18-overview.md)
 19. [Cloud Computing](./modules/19-cloud-computing/19-overview.md)
+20. [Cryptography](./modules/20-cryptography/20-overview.md)
 
 
 ### Cheat Sheets
