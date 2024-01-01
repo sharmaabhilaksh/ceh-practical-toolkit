@@ -43,7 +43,3 @@
 - `aws iam create-policy --policy-name <policy-name> --policy-document file://policy.json`
 - `aws iam attach-role-policy --user-name <user-name> --policy-arn <policy-arn-from-previous-command>`
 - `aws iam list-users` to verify by listing users
-
-AWS S3 hacking
-- Lazys3
-- S3Scanner
