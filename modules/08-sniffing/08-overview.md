@@ -26,6 +26,7 @@ Detect sniffer using nmap: `nmap -script=sniffer-detect <ip address range>`
 - Ctrl + F > String > Enter string > Find
 
 #### Finding Covert_TCP
+- Wireshark warning: Black : TCP Port number reused
 - Different stream index for each TCP connection with same source and destination IP addresses and ports
 
 #### Detect DoS / DDoS

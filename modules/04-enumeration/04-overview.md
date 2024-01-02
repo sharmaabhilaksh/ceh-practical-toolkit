@@ -34,8 +34,8 @@ Domain controllers will show port 389 running the Microsoft Windows AD LDAP serv
 1. Active Directory Explorer (windows app)
 2. ldapsearch
    - `ldapsearch -h <ip> -p <port> -x -s base namingcontexts`
-   - `ldapsearch -h [Target IP Address] -x -b “DC=CEH,DC=com”`
-   - `ldapsearch -x -h [Target IP Address] -b "DC=CEH,DC=com" "objectclass=*"`
+   - `ldapsearch -h <ip> -p <port> -x -b “DC=CEH,DC=com”`
+   - Users: `ldapsearch -h <ip> -p <port> -x -b "DC=CEH,DC=com" "objectclass=user"`
 3. nmap scripts
 
 
